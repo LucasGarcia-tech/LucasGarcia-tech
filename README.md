@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="banner.png" alt="banner" width="100%">
 
-<!--
-**LucasGarcia-tech/LucasGarcia-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Lucas  
 
-Here are some ideas to get you started:
+💻 **Quality Engineer (QE)**
+Apaixonado por garantir qualidade em produtos digitais e criar experiências confiáveis para os usuários.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🚀 Sobre mim  
+- 🔎 3+ anos de experiência em **Quality Engineer**  
+- 🧪 Certificação **ISTQB CTFL**   
+- 📈 Experiência com **SDLC** e metodologias ágeis  
+- 🎯 Foco em testes funcionais, automação e melhoria contínua  

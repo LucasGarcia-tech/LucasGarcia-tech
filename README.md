@@ -27,7 +27,7 @@ Apaixonado por garantir qualidade em produtos digitais e criar experiências con
 
 ## 📊 Estatísticas do GitHub  
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasGarcia-techb&show_icons=true&theme=tokyonight)  
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasGarcia-tech&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGarcia-tech&layout=compact&theme=tokyonight) 
 
 ---

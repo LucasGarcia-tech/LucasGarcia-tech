@@ -1,9 +1,8 @@
 <img src="banner.png" alt="banner" width="100%">
 
-# 👋 Olá, eu sou o Lucas  
+# 👋 Me chamo Lucas
 
 💻 **Quality Assurance (QA)**  
-Apaixonado por garantir qualidade em produtos digitais e criar experiências confiáveis para os usuários.  
 
 ---
 
@@ -22,6 +21,8 @@ Apaixonado por garantir qualidade em produtos digitais e criar experiências con
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
